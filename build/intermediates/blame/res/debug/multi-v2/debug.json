@@ -1,0 +1,69 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "3,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "99,199,337",
+                        "endLines": "4,7,11",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "194,332,559"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
