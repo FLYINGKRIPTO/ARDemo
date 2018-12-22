@@ -1,4 +1,4 @@
-#Wed Jul 18 10:25:44 IST 2018
-base.0=C\:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+#Wed Jul 18 12:45:29 IST 2018
+base.0=H\:\\AndroidStudioProjects\\ARDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\10
 path.0=classes.dex
 renamed.0=classes.dex

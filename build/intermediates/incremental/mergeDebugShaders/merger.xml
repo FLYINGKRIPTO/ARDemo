@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\abhay\OneDrive\Documents\ARDemo\Android export\ARDemo\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\abhay\OneDrive\Documents\ARDemo\Android export\ARDemo\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="H:\AndroidStudioProjects\ARDemo\src\main\shaders"/></dataSet><dataSet config="debug"><source path="H:\AndroidStudioProjects\ARDemo\src\debug\shaders"/></dataSet></merger>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "H:\\AndroidStudioProjects\\ARDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\abhay\\OneDrive\\Documents\\ARDemo\\Android export\\ARDemo\\src\\main\\res\\values-v21\\styles.xml",
+                    "source": "H:\\AndroidStudioProjects\\ARDemo\\src\\main\\res\\values-v21\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
